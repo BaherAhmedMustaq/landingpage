@@ -1,0 +1,61 @@
+.header{
+    background-color: #1F2937;
+
+}
+
+img{
+    height:50px;
+    width:50px;
+    margin:10px;
+}
+
+.top{
+    display:flex;
+    justify-content: space-between;
+}
+
+ul{
+   padding:0;
+  
+}
+
+li{
+    list-style-type: none;
+    display: inline-block;
+    padding-right:5px;
+}
+
+a{
+    text-decoration: none;
+    color:#E7E5EB;
+}
+
+h1{
+    color:#F9FAF8;
+    font-size:48px;
+    font-weight:900;
+}
+
+.subhead{
+    font-size: 18px;
+    color:#E5E7EB;
+}
+
+button{
+    background-color:#3882F6;
+    border-radius: 12px;
+    border-color: #3882F6;
+    margin:10px;
+}
+
+.hero{
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+.heropic{
+    width:200px;
+    height:200px;
+    
+}
