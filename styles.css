@@ -84,6 +84,57 @@ button{
 
 .quotetext{
     font-size: 36px;
-    
+    font-weight: 100;
+    color:#1F2937;
+}
 
+.quoteperson{
+    font-weight: bold;
+    text-align: right;
+}
+
+.callbox{
+    display:flex;
+    background-color: #3882F6;
+    height:100px;
+    width:400px;
+    justify-content: space-between;
+    border-radius: 5px;
+    padding: 5px;
+    
+}
+
+.call{
+    display:flex;
+    justify-content: center;
+}
+
+.callbutton{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    border-color: #F9FAF8;
+}
+
+.callheader{
+    color:#F9FAF8;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.callpara{
+    color:#F9FAF8;
+    font-weight: 100;
+    font-size: 16px;
+}
+
+.callbutton button{
+    color:#F9FAF8;
+    border-color: #F9FAF8;
+}
+
+.footer{
+    background-color: #1F2937;
+    text-align: center;
+    color:#E7E5EB
 }
