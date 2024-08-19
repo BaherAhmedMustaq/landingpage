@@ -3,11 +3,6 @@
 
 }
 
-img{
-    height:50px;
-    width:50px;
-    margin:10px;
-}
 
 .top{
     display:flex;
@@ -30,7 +25,7 @@ a{
     color:#E7E5EB;
 }
 
-h1{
+.titlehead{
     color:#F9FAF8;
     font-size:48px;
     font-weight:900;
@@ -58,4 +53,15 @@ button{
     width:200px;
     height:200px;
     
+}
+
+.infocontent{
+    display:flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.infocontent img{
+    height:50px;
+    width:50px;
 }
