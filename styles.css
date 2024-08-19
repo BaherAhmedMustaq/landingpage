@@ -3,6 +3,11 @@
 
 }
 
+.cornericon{
+    height:50px;
+    width:50px;
+    margin:10px;
+}
 
 .top{
     display:flex;
@@ -64,4 +69,21 @@ button{
 .infocontent img{
     height:50px;
     width:50px;
+}
+
+.infohead{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 900;
+    color:#1F2937
+}
+
+.quote{
+    background-color: #E5E7EB;
+}
+
+.quotetext{
+    font-size: 36px;
+    
+
 }
